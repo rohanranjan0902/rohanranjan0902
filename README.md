@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohan_ranjan45" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_ranjan45?logo=twitter&style=for-the-badge" alt="rohan_ranjan45" /></a> </p>
 
-- 📫 How to reach me **rrprasad0902@gmail.com**
+- 📫 How to reach me **rohanprasad.nitr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
